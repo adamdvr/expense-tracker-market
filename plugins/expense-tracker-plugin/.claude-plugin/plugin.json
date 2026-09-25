@@ -1,0 +1,8 @@
+{
+  "name": "expense-tracker-plugin",
+  "description": "Инструмент для стандартной работы над проектом",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adam Abdulaev"
+  }
+}
