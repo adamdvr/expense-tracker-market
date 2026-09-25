@@ -8,10 +8,12 @@
     "description": "Инструменты для работы с проектом expense-tracker",
     "pluginRoot": "./plugins"
   },
-  "plugins": {
-    "name": "expense-tracker-plugin",
-    "source": "./plugins/expense-tracker-plugin",
-    "description": "Инструмент для стандартной работы над проектом",
-    "version": "1.0.0"
-  }
+  "plugins": [
+    {
+      "name": "expense-tracker-plugin",
+      "source": "./plugins/expense-tracker-plugin",
+      "description": "Инструмент для стандартной работы над проектом",
+      "version": "1.0.0"
+    }
+  ]
 }
